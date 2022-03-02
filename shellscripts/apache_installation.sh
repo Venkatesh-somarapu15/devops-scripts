@@ -3,4 +3,4 @@ yum update -y
 yum install httpd -y 
 systemctl enable httpd 
 systemctl start httpd
-echo "devoloper1"
+echo "developer1"
